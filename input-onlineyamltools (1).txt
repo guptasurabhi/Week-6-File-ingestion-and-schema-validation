@@ -1,0 +1,14 @@
+﻿---
+file_type=csv
+dataset_name=test_file
+table_name=health_insurance
+columns=
+    -age
+    -gender
+    -bmi
+    -bp
+    -children
+    -region
+    -smoker
+    -medical_cost
+  
